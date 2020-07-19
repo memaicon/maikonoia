@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá 👋
+
+- 🔭 Trabalhando como desenvolvedor PHP sênior.
+- 🌱 Cursando Análise e Desenvolvimento de Software - Ulbra Canoas
+- ⚡ Estudando Laravel Vue.js
+- 👯 Co-organizador e Desenvolvedor na Comunidade PHPRS.
+- 💬 Evangelista PHP.
+
 
 <!--
 **maikonoia/maikonoia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
