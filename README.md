@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Trabalhando como desenvolvedor PHP sênior.
+- 🔭 Trabalhando como desenvolvedor PHP Sênior.
 - 🌱 Cursando Análise e Desenvolvimento de Software - Ulbra Canoas
 - ⚡ Estudando Laravel Vue.js
 - 👯 Co-organizador e Desenvolvedor na Comunidade PHPRS.
