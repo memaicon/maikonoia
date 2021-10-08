@@ -8,7 +8,7 @@
 
 I am a Full-Stack Web Developer with Photoshop / Illustrator Design Skills and C#/C++ Game Developer Enthusiast.
  
- 🔭 I’m working at PIX Mídia.
+ 🔭 I’m working at Unifique - Timbó RS.
  
  🌱 I’m currently learning PHP Laravel and Zend Frameworks
  
