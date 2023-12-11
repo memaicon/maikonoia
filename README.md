@@ -8,9 +8,9 @@
 
 I am a Full-Stack Web Developer with Photoshop / Illustrator Design Skills and C#/C++ Game Developer Enthusiast.
  
- 🔭 I’m working at Unifique - Timbó RS.
+ 🔭 I’m working at #Startaideia Porto Alegre - RS.
  
- 🌱 I’m currently learning PHP Laravel and Zend Frameworks
+ 🌱 I’m currently working and continuously learning PHP Laravel and Zend Frameworks
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 
