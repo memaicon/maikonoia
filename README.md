@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maikonoia/maikonoia/master/Card.png" width="100%" title="Maicon Esperafico Card" alt="Maicon Esperafico Card">
+  <img src="https://raw.githubusercontent.com/memaicon/memaicon/master/Card.png" width="100%" title="Maicon Esperafico Card" alt="Maicon Esperafico Card">
 </p>
 
 I am a Full-Stack Web Developer with Photoshop / Illustrator Design Skills and C#/C++ Game Developer Enthusiast.
@@ -14,7 +14,7 @@ I am a Full-Stack Web Developer with Photoshop / Illustrator Design Skills and C
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 
-![Profile views](https://gpvc.arturio.dev/maikonoia)  <img src="https://img.shields.io/github/followers/maikonoia?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/memaicon)  <img src="https://img.shields.io/github/followers/memaicon?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
@@ -40,6 +40,6 @@ I am a Full-Stack Web Developer with Photoshop / Illustrator Design Skills and C
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maikonoia&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=memaicon&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/maikonoia)
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/memaicon)
