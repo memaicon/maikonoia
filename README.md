@@ -14,8 +14,7 @@ I am a Full-Stack Web Developer, DevOPS and C#/C++ Game Developer Enthusiast.
 
  🌱 Working and continuously learning PHP Laravel and Zend Frameworks
  
- :books: Learning English <img src="https://img.shields.io/badge/english-000000?logo=theconversation
-"> and <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter">
+ :books: Learning English <img src="https://img.shields.io/badge/english-000000?logo=theconversation"> and <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter">
 
 <img src="https://img.shields.io/github/followers/memaicon?label=Follow" style=" float:left, margin-right:10px" />
 
