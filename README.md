@@ -10,7 +10,7 @@ I am a Full-Stack Web Developer, DevOPS and C#/C++ Game Developer Enthusiast.
  
  🔭 I’m working at #Startaideia Porto Alegre - RS.
 
- 👨‍💻 Working PHP 7x, PHP 8x, Vue, DevOPS with Docker & AWS.
+ 👨‍💻 Working with PHP 7x & PHP 8x, Vue, Angular | DevOPS with Docker & AWS.
 
  🌱 Working and continuously learning PHP Laravel and Zend Frameworks
  
