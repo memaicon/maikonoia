@@ -6,13 +6,16 @@
   <img src="https://raw.githubusercontent.com/memaicon/memaicon/master/Card.png" width="100%" title="Maicon Esperafico Card" alt="Maicon Esperafico Card">
 </p>
 
-I am a Full-Stack Web Developer with Photoshop / Illustrator Design Skills and C#/C++ Game Developer Enthusiast.
+I am a Full-Stack Web Developer, DevOPS and C#/C++ Game Developer Enthusiast.
  
  🔭 I’m working at #Startaideia Porto Alegre - RS.
+
+ 👨‍💻 Working PHP 7x, PHP 8x, Vue, DevOPS with Docker & AWS.
+
+ 🌱 Working and continuously learning PHP Laravel and Zend Frameworks
  
- 🌱 I’m currently working and continuously learning PHP Laravel and Zend Frameworks
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+ :books: Learning English <img src="https://img.shields.io/badge/english-000000?logo=theconversation
+"> and <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter">
 
 <img src="https://img.shields.io/github/followers/memaicon?label=Follow" style=" float:left, margin-right:10px" />
 
